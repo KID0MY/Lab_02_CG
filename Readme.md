@@ -4,6 +4,8 @@ Github link:[GitHub - KID0MY/Lab_02_CG ¡¤ GitHub](https://github.com/KID0MY/La
 
 Youtube: [ShowCaseingTheScene - YouTube](https://youtu.be/47q91Wyc8V0)
 
+Map used to create the photos: [Apartment Kit](https://assetstore.unity.com/packages/3d/environments/apartment-kit-124055)
+
 # Post Processing 1:
 
 For this first one, my idea behind was to just make some adjustments with Tonemapping and the Shadows, Midtones and Highlights, bringing a nicer look to the game.
