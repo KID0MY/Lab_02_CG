@@ -13,6 +13,8 @@ Intended Mood: High-end, professional, and vibrant.
 For This Post Processing, I mainly used: ToneMapping, Chromatic Aberration, and The Shadows, Midtones and Highlights.
 
 ![](./ToneMapping_PP_01.png)
+![](./ToneMapping_PP_02.png)
+![](./ToneMapping_PP_03.png)
 
 # Post Processing 2:
 
@@ -21,6 +23,9 @@ For this second effect , my idea behind was to just try to use the environment t
 Intended Mood: Suspenseful, mysterious, and dramatic.
 
 For This Post Processing, I mainly used: Lens Distorsion, Vignette, Color Adjustments and Film Grain.
+![](./Noir_PP_01.png)
+![](./Noir_PP_02.png)
+![](./Noir_PP_03.png)
 
 # Post Processing 3:
 
@@ -29,5 +34,8 @@ For the third effect, Grand Theft Auto Drunk effect came into my mind. So by als
 Intended Mood: Disorienting, unstable, and dizzying.
 
 For This Post Processing, I mainly used: Lens Distortion, and Color Adjustment.
-
-Shader Graph:**
+![](./Drunken_PP_01.png)
+![](./Drunken_PP_02.png)
+![](./Drunken_PP_03.png)
+Shader Graph:
+![](./ShaderGraph.png)
